@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+padding: 0;
+}
+
+.iconu ul{list-style: none;}
+.iconu ul li{display: inline-block;}
+.iconu ul li a{background-color: rgb(238, 10, 200);
+color: rgb(8, 2, 2);
+padding: 10px 20px;
+font-size: 20px;
+display: block;
+border-radius:  10px;}
+.iconu ul li a:hover{background-color: rgba(232, 247, 25, 0.966);
+color: rgb(250, 11, 11);
+transition: 2s;}
